@@ -26,7 +26,7 @@ img {
     align-items: center;
     height: 340px;
     width: 720px;
-    background-image: url(/images/peace-bridge.jpg);
+    background-image: url(./images/peace-bridge.jpg);
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
